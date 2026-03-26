@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "or-tambo",
+    "name": "OR Tambo International Airport",
+    "city": "Johannesburg",
+    "province": "Gauteng",
+    "iata": "JNB",
+    "description": "South Africa's busiest airport and primary international gateway, serving over 20 million passengers annually.",
+    "tourist_notes": "Most international flights to South Africa land here. Car hire desks are located in the international arrivals hall.",
+    "nearby_destinations": ["Kruger National Park", "Sun City", "Johannesburg City", "Pretoria"],
+    "peak_months": ["December", "January", "July", "August"],
+    "companies_present": ["avis", "budget", "hertz", "europcar", "first-car-rental", "sixt", "thrifty", "dollar", "tempest"]
+  },
+  {
+    "slug": "cape-town",
+    "name": "Cape Town International Airport",
+    "city": "Cape Town",
+    "province": "Western Cape",
+    "iata": "CPT",
+    "description": "Gateway to the Western Cape, one of the world's top tourist destinations.",
+    "tourist_notes": "Car hire desks are in the arrivals hall. The Garden Route and Winelands are easily accessible by car.",
+    "nearby_destinations": ["Garden Route", "Cape Winelands", "Cape Town City", "Hermanus"],
+    "peak_months": ["December", "January", "February", "March"],
+    "companies_present": ["avis", "budget", "hertz", "europcar", "first-car-rental", "sixt", "tempest", "green-motion"]
+  },
+  {
+    "slug": "king-shaka",
+    "name": "King Shaka International Airport",
+    "city": "Durban",
+    "province": "KwaZulu-Natal",
+    "iata": "DUR",
+    "description": "KwaZulu-Natal's main airport, serving Durban and the surrounding regions.",
+    "tourist_notes": "Gateway to the Drakensberg mountains and Zulu Kingdom heritage sites.",
+    "nearby_destinations": ["Drakensberg", "iSimangaliso Wetland Park", "Durban City", "Valley of a Thousand Hills"],
+    "peak_months": ["December", "January", "April"],
+    "companies_present": ["avis", "budget", "hertz", "europcar", "first-car-rental", "tempest"]
+  },
+  {
+    "slug": "george",
+    "name": "George Airport",
+    "city": "George",
+    "province": "Western Cape",
+    "iata": "GRJ",
+    "description": "The main access point for the famous Garden Route.",
+    "tourist_notes": "Flying into George is the most convenient way to start or end a Garden Route road trip.",
+    "nearby_destinations": ["Garden Route", "Knysna", "Plettenberg Bay", "Oudtshoorn"],
+    "peak_months": ["December", "January", "February"],
+    "companies_present": ["avis", "budget", "hertz", "europcar", "tempest"]
+  },
+  {
+    "slug": "kruger-mpumalanga",
+    "name": "Kruger Mpumalanga International Airport",
+    "city": "Nelspruit",
+    "province": "Mpumalanga",
+    "iata": "MQP",
+    "description": "The closest airport to the Kruger National Park.",
+    "tourist_notes": "Most visitors on safari fly into KMIA. 4x4 and SUV vehicles are recommended for game drives.",
+    "nearby_destinations": ["Kruger National Park", "Blyde River Canyon", "Panorama Route", "Hazyview"],
+    "peak_months": ["June", "July", "August", "September"],
+    "companies_present": ["avis", "budget", "hertz", "europcar", "first-car-rental"]
+  }
+]

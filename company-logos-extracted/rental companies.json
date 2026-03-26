@@ -1,0 +1,3009 @@
+{
+  "companies": [
+    {
+      "company_name": "Avis",
+      "parent_company": "Avis Budget Group",
+      "website_url": "https://www.avis.co.za",
+      "headquarters_country": "USA",
+      "year_established": 1946,
+      "operates_in_south_africa": true,
+      "estimated_fleet_size": "unknown",
+      "locations": {
+        "airports": [
+          "OR Tambo",
+          "Cape Town",
+          "King Shaka",
+          "Lanseria",
+          "Port Elizabeth"
+        ],
+        "cities": [
+          "Johannesburg",
+          "Cape Town",
+          "Durban",
+          "Pretoria"
+        ],
+        "total_airport_locations": 5,
+        "total_city_locations": 4,
+        "total_locations": 9
+      },
+      "services": {
+        "corporate_accounts_available": true,
+        "loyalty_program_available": true,
+        "delivery_to_client_available": true,
+        "cross_border_allowed": true,
+        "support_24_hour": true,
+        "roadside_assistance_included": true,
+        "affiliate_program_available": true,
+        "affiliate_network": "CJ",
+        "api_available": "unknown"
+      },
+      "pricing": {
+        "economy_daily_rate": {
+          "min": 450,
+          "max": 650,
+          "average": 550,
+          "currency": "ZAR"
+        },
+        "suv_daily_rate": {
+          "min": 800,
+          "max": 1200,
+          "average": 1000,
+          "currency": "ZAR"
+        },
+        "luxury_daily_rate": {
+          "min": 1500,
+          "max": 2500,
+          "average": 2000,
+          "currency": "ZAR"
+        },
+        "minimum_rental_days": 1,
+        "long_term_rental_available": true,
+        "monthly_rate_available": true
+      },
+      "costs": {
+        "typical_deposit": {
+          "min": 2000,
+          "max": 5000,
+          "average": 3500,
+          "currency": "ZAR",
+          "hold_type": "credit_card_only"
+        },
+        "typical_excess": {
+          "min": 10000,
+          "max": 20000,
+          "average": 15000,
+          "currency": "ZAR"
+        },
+        "excess_reduction": {
+          "available": true,
+          "cost_per_day_min": 150,
+          "cost_per_day_max": 250,
+          "cost_per_day_average": 200,
+          "currency": "ZAR"
+        }
+      },
+      "policies": {
+        "mileage_policy": "unlimited",
+        "fuel_policy": "full_to_full"
+      },
+      "reviews": {
+        "trustpilot_score": 3.5,
+        "google_review_score": 4.2,
+        "combined_satisfaction_score": 3.85,
+        "common_complaints": "High deposits, upselling insurance",
+        "common_strengths": "Wide airport coverage, strong fleet"
+      },
+      "vehicle_brands_available": [
+        "Toyota",
+        "Volkswagen",
+        "Hyundai",
+        "Ford",
+        "BMW",
+        "Mercedes-Benz",
+        "Kia"
+      ],
+      "most_affordable_model": {
+        "vehicle_brand": "Toyota",
+        "vehicle_model": "Agya",
+        "estimated_daily_price_range_ZAR": "450-550"
+      }
+    },
+    {
+      "company_name": "Hertz",
+      "parent_company": "Hertz Global Holdings",
+      "website_url": "https://www.hertz.co.za",
+      "headquarters_country": "USA",
+      "year_established": 1918,
+      "operates_in_south_africa": true,
+      "estimated_fleet_size": "unknown",
+      "locations": {
+        "airports": [
+          "OR Tambo",
+          "Cape Town",
+          "King Shaka"
+        ],
+        "cities": [
+          "Johannesburg",
+          "Cape Town",
+          "Durban"
+        ],
+        "total_airport_locations": 3,
+        "total_city_locations": 3,
+        "total_locations": 6
+      },
+      "services": {
+        "corporate_accounts_available": true,
+        "loyalty_program_available": true,
+        "delivery_to_client_available": true,
+        "cross_border_allowed": true,
+        "support_24_hour": true,
+        "roadside_assistance_included": true,
+        "affiliate_program_available": true,
+        "affiliate_network": "Direct",
+        "api_available": "unknown"
+      },
+      "pricing": {
+        "economy_daily_rate": {
+          "min": 400,
+          "max": 600,
+          "average": 500,
+          "currency": "ZAR"
+        },
+        "suv_daily_rate": {
+          "min": 750,
+          "max": 1100,
+          "average": 925,
+          "currency": "ZAR"
+        },
+        "luxury_daily_rate": {
+          "min": 1600,
+          "max": 2400,
+          "average": 2000,
+          "currency": "ZAR"
+        },
+        "minimum_rental_days": 1,
+        "long_term_rental_available": true,
+        "monthly_rate_available": true
+      },
+      "costs": {
+        "typical_deposit": {
+          "min": 2500,
+          "max": 6000,
+          "average": 4250,
+          "currency": "ZAR",
+          "hold_type": "credit_card_only"
+        },
+        "typical_excess": {
+          "min": 12000,
+          "max": 20000,
+          "average": 16000,
+          "currency": "ZAR"
+        },
+        "excess_reduction": {
+          "available": true,
+          "cost_per_day_min": 180,
+          "cost_per_day_max": 280,
+          "cost_per_day_average": 230,
+          "currency": "ZAR"
+        }
+      },
+      "policies": {
+        "mileage_policy": "varies",
+        "fuel_policy": "full_to_full"
+      },
+      "reviews": {
+        "trustpilot_score": 3.6,
+        "google_review_score": 4.1,
+        "combined_satisfaction_score": 3.85,
+        "common_complaints": "Slow service at airports",
+        "common_strengths": "Premium fleet, loyalty program"
+      },
+      "vehicle_brands_available": [
+        "Toyota",
+        "Nissan",
+        "Volkswagen",
+        "Ford",
+        "BMW",
+        "Mercedes-Benz",
+        "Hyundai"
+      ],
+      "most_affordable_model": {
+        "vehicle_brand": "Nissan",
+        "vehicle_model": "Micra",
+        "estimated_daily_price_range_ZAR": "400-500"
+      }
+    },
+    {
+      "company_name": "Europcar",
+      "parent_company": "Europcar Mobility Group",
+      "website_url": "https://www.europcar.co.za",
+      "headquarters_country": "France",
+      "year_established": 1949,
+      "operates_in_south_africa": true,
+      "estimated_fleet_size": "unknown",
+      "locations": {
+        "airports": [
+          "OR Tambo",
+          "Cape Town",
+          "King Shaka",
+          "Port Elizabeth"
+        ],
+        "cities": [
+          "Johannesburg",
+          "Cape Town",
+          "Durban",
+          "Pretoria"
+        ],
+        "total_airport_locations": 4,
+        "total_city_locations": 4,
+        "total_locations": 8
+      },
+      "services": {
+        "corporate_accounts_available": true,
+        "loyalty_program_available": true,
+        "delivery_to_client_available": true,
+        "cross_border_allowed": true,
+        "support_24_hour": true,
+        "roadside_assistance_included": true,
+        "affiliate_program_available": true,
+        "affiliate_network": "Direct",
+        "api_available": "unknown"
+      },
+      "pricing": {
+        "economy_daily_rate": {
+          "min": 420,
+          "max": 650,
+          "average": 535,
+          "currency": "ZAR"
+        },
+        "suv_daily_rate": {
+          "min": 780,
+          "max": 1150,
+          "average": 965,
+          "currency": "ZAR"
+        },
+        "luxury_daily_rate": {
+          "min": 1700,
+          "max": 2600,
+          "average": 2150,
+          "currency": "ZAR"
+        },
+        "minimum_rental_days": 1,
+        "long_term_rental_available": true,
+        "monthly_rate_available": true
+      },
+      "costs": {
+        "typical_deposit": {
+          "min": 2500,
+          "max": 5000,
+          "average": 3750,
+          "currency": "ZAR",
+          "hold_type": "credit_card_only"
+        },
+        "typical_excess": {
+          "min": 10000,
+          "max": 18000,
+          "average": 14000,
+          "currency": "ZAR"
+        },
+        "excess_reduction": {
+          "available": true,
+          "cost_per_day_min": 160,
+          "cost_per_day_max": 240,
+          "cost_per_day_average": 200,
+          "currency": "ZAR"
+        }
+      },
+      "policies": {
+        "mileage_policy": "unlimited",
+        "fuel_policy": "full_to_full"
+      },
+      "reviews": {
+        "trustpilot_score": 3.7,
+        "google_review_score": 4.3,
+        "combined_satisfaction_score": 4,
+        "common_complaints": "Hidden fees",
+        "common_strengths": "Strong airport presence, modern cars"
+      },
+      "vehicle_brands_available": [
+        "Toyota",
+        "Volkswagen",
+        "Hyundai",
+        "Ford",
+        "BMW",
+        "Mercedes-Benz",
+        "Renault"
+      ],
+      "most_affordable_model": {
+        "vehicle_brand": "Volkswagen",
+        "vehicle_model": "Polo Vivo",
+        "estimated_daily_price_range_ZAR": "420-520"
+      }
+    },
+    {
+      "company_name": "Budget",
+      "parent_company": "Avis Budget Group",
+      "website_url": "https://www.budget.co.za",
+      "headquarters_country": "USA",
+      "year_established": 1958,
+      "operates_in_south_africa": true,
+      "estimated_fleet_size": "unknown",
+      "locations": {
+        "airports": [
+          "OR Tambo",
+          "Cape Town",
+          "King Shaka"
+        ],
+        "cities": [
+          "Johannesburg",
+          "Cape Town",
+          "Durban"
+        ],
+        "total_airport_locations": 3,
+        "total_city_locations": 3,
+        "total_locations": 6
+      },
+      "services": {
+        "corporate_accounts_available": true,
+        "loyalty_program_available": false,
+        "delivery_to_client_available": true,
+        "cross_border_allowed": true,
+        "support_24_hour": true,
+        "roadside_assistance_included": true,
+        "affiliate_program_available": false,
+        "affiliate_network": "Direct",
+        "api_available": "unknown"
+      },
+      "pricing": {
+        "economy_daily_rate": {
+          "min": 380,
+          "max": 550,
+          "average": 465,
+          "currency": "ZAR"
+        },
+        "suv_daily_rate": {
+          "min": 700,
+          "max": 1000,
+          "average": 850,
+          "currency": "ZAR"
+        },
+        "luxury_daily_rate": {
+          "min": 1400,
+          "max": 2200,
+          "average": 1800,
+          "currency": "ZAR"
+        },
+        "minimum_rental_days": 1,
+        "long_term_rental_available": true,
+        "monthly_rate_available": true
+      },
+      "costs": {
+        "typical_deposit": {
+          "min": 2000,
+          "max": 4000,
+          "average": 3000,
+          "currency": "ZAR",
+          "hold_type": "credit_card_only"
+        },
+        "typical_excess": {
+          "min": 8000,
+          "max": 15000,
+          "average": 11500,
+          "currency": "ZAR"
+        },
+        "excess_reduction": {
+          "available": true,
+          "cost_per_day_min": 140,
+          "cost_per_day_max": 200,
+          "cost_per_day_average": 170,
+          "currency": "ZAR"
+        }
+      },
+      "policies": {
+        "mileage_policy": "capped",
+        "fuel_policy": "full_to_full"
+      },
+      "reviews": {
+        "trustpilot_score": 3.4,
+        "google_review_score": 4,
+        "combined_satisfaction_score": 3.7,
+        "common_complaints": "Older cars",
+        "common_strengths": "Affordable economy rentals"
+      },
+      "vehicle_brands_available": [
+        "Toyota",
+        "Volkswagen",
+        "Hyundai",
+        "Ford",
+        "Nissan",
+        "Kia"
+      ],
+      "most_affordable_model": {
+        "vehicle_brand": "Hyundai",
+        "vehicle_model": "i10",
+        "estimated_daily_price_range_ZAR": "380-480"
+      }
+    },
+    {
+      "company_name": "Sixt",
+      "parent_company": "Sixt SE",
+      "website_url": "https://www.sixt.co.za",
+      "headquarters_country": "Germany",
+      "year_established": 1912,
+      "operates_in_south_africa": true,
+      "estimated_fleet_size": "unknown",
+      "locations": {
+        "airports": [
+          "OR Tambo",
+          "Cape Town"
+        ],
+        "cities": [
+          "Johannesburg",
+          "Cape Town"
+        ],
+        "total_airport_locations": 2,
+        "total_city_locations": 2,
+        "total_locations": 4
+      },
+      "services": {
+        "corporate_accounts_available": true,
+        "loyalty_program_available": true,
+        "delivery_to_client_available": true,
+        "cross_border_allowed": true,
+        "support_24_hour": true,
+        "roadside_assistance_included": true,
+        "affiliate_program_available": true,
+        "affiliate_network": "CJ",
+        "api_available": "unknown"
+      },
+      "pricing": {
+        "economy_daily_rate": {
+          "min": 500,
+          "max": 700,
+          "average": 600,
+          "currency": "ZAR"
+        },
+        "suv_daily_rate": {
+          "min": 900,
+          "max": 1300,
+          "average": 1100,
+          "currency": "ZAR"
+        },
+        "luxury_daily_rate": {
+          "min": 1800,
+          "max": 2800,
+          "average": 2300,
+          "currency": "ZAR"
+        },
+        "minimum_rental_days": 1,
+        "long_term_rental_available": true,
+        "monthly_rate_available": true
+      },
+      "costs": {
+        "typical_deposit": {
+          "min": 3000,
+          "max": 6000,
+          "average": 4500,
+          "currency": "ZAR",
+          "hold_type": "credit_card_only"
+        },
+        "typical_excess": {
+          "min": 12000,
+          "max": 20000,
+          "average": 16000,
+          "currency": "ZAR"
+        },
+        "excess_reduction": {
+          "available": true,
+          "cost_per_day_min": 200,
+          "cost_per_day_max": 300,
+          "cost_per_day_average": 250,
+          "currency": "ZAR"
+        }
+      },
+      "policies": {
+        "mileage_policy": "varies",
+        "fuel_policy": "varies"
+      },
+      "reviews": {
+        "trustpilot_score": 3.8,
+        "google_review_score": 4.2,
+        "combined_satisfaction_score": 4,
+        "common_complaints": "High insurance costs",
+        "common_strengths": "Luxury fleet, strong brand"
+      },
+      "vehicle_brands_available": [
+        "BMW",
+        "Mercedes-Benz",
+        "Audi",
+        "Volkswagen",
+        "Toyota"
+      ],
+      "most_affordable_model": {
+        "vehicle_brand": "Volkswagen",
+        "vehicle_model": "Polo",
+        "estimated_daily_price_range_ZAR": "500-600"
+      }
+    },
+    {
+      "company_name": "First Car Rental",
+      "parent_company": "CMH Group",
+      "website_url": "https://www.firstcarrental.co.za",
+      "headquarters_country": "South Africa",
+      "year_established": 1999,
+      "operates_in_south_africa": true,
+      "estimated_fleet_size": "2500+",
+      "locations": {
+        "airports": [
+          "OR Tambo",
+          "Cape Town",
+          "King Shaka",
+          "Lanseria"
+        ],
+        "cities": [
+          "Johannesburg",
+          "Cape Town",
+          "Durban",
+          "Pretoria"
+        ],
+        "total_airport_locations": 4,
+        "total_city_locations": 4,
+        "total_locations": 8
+      },
+      "services": {
+        "corporate_accounts_available": true,
+        "loyalty_program_available": true,
+        "delivery_to_client_available": true,
+        "cross_border_allowed": true,
+        "support_24_hour": true,
+        "roadside_assistance_included": true,
+        "affiliate_program_available": false,
+        "affiliate_network": "Direct",
+        "api_available": "unknown"
+      },
+      "pricing": {
+        "economy_daily_rate": {
+          "min": 350,
+          "max": 500,
+          "average": 425,
+          "currency": "ZAR"
+        },
+        "suv_daily_rate": {
+          "min": 650,
+          "max": 950,
+          "average": 800,
+          "currency": "ZAR"
+        },
+        "luxury_daily_rate": {
+          "min": 1300,
+          "max": 2000,
+          "average": 1650,
+          "currency": "ZAR"
+        },
+        "minimum_rental_days": 1,
+        "long_term_rental_available": true,
+        "monthly_rate_available": true
+      },
+      "costs": {
+        "typical_deposit": {
+          "min": 2000,
+          "max": 4000,
+          "average": 3000,
+          "currency": "ZAR",
+          "hold_type": "credit_card_only"
+        },
+        "typical_excess": {
+          "min": 8000,
+          "max": 15000,
+          "average": 11500,
+          "currency": "ZAR"
+        },
+        "excess_reduction": {
+          "available": true,
+          "cost_per_day_min": 120,
+          "cost_per_day_max": 180,
+          "cost_per_day_average": 150,
+          "currency": "ZAR"
+        }
+      },
+      "policies": {
+        "mileage_policy": "unlimited",
+        "fuel_policy": "full_to_full"
+      },
+      "reviews": {
+        "trustpilot_score": 3.9,
+        "google_review_score": 4.4,
+        "combined_satisfaction_score": 4.15,
+        "common_complaints": "Deposit confusion",
+        "common_strengths": "Good long-term rental options"
+      },
+      "vehicle_brands_available": [
+        "Toyota",
+        "Volkswagen",
+        "Hyundai",
+        "Ford",
+        "Nissan",
+        "Renault"
+      ],
+      "most_affordable_model": {
+        "vehicle_brand": "Toyota",
+        "vehicle_model": "Agya",
+        "estimated_daily_price_range_ZAR": "350-450"
+      }
+    },
+    {
+      "company_name": "Woodford",
+      "parent_company": "Independent",
+      "website_url": "https://www.woodford.co.za",
+      "headquarters_country": "South Africa",
+      "year_established": 1991,
+      "operates_in_south_africa": true,
+      "estimated_fleet_size": "5000+",
+      "locations": {
+        "airports": [
+          "OR Tambo",
+          "Cape Town",
+          "King Shaka",
+          "Lanseria"
+        ],
+        "cities": [
+          "Johannesburg",
+          "Cape Town",
+          "Durban",
+          "Pretoria"
+        ],
+        "total_airport_locations": 4,
+        "total_city_locations": 4,
+        "total_locations": 8
+      },
+      "services": {
+        "corporate_accounts_available": true,
+        "loyalty_program_available": true,
+        "delivery_to_client_available": true,
+        "cross_border_allowed": true,
+        "support_24_hour": true,
+        "roadside_assistance_included": true,
+        "affiliate_program_available": false,
+        "affiliate_network": "Direct",
+        "api_available": "unknown"
+      },
+      "pricing": {
+        "economy_daily_rate": {
+          "min": 370,
+          "max": 520,
+          "average": 445,
+          "currency": "ZAR"
+        },
+        "suv_daily_rate": {
+          "min": 700,
+          "max": 1050,
+          "average": 875,
+          "currency": "ZAR"
+        },
+        "luxury_daily_rate": {
+          "min": 1400,
+          "max": 2100,
+          "average": 1750,
+          "currency": "ZAR"
+        },
+        "minimum_rental_days": 1,
+        "long_term_rental_available": true,
+        "monthly_rate_available": true
+      },
+      "costs": {
+        "typical_deposit": {
+          "min": 1500,
+          "max": 3500,
+          "average": 2500,
+          "currency": "ZAR",
+          "hold_type": "credit_card_only"
+        },
+        "typical_excess": {
+          "min": 7000,
+          "max": 12000,
+          "average": 9500,
+          "currency": "ZAR"
+        },
+        "excess_reduction": {
+          "available": true,
+          "cost_per_day_min": 130,
+          "cost_per_day_max": 190,
+          "cost_per_day_average": 160,
+          "currency": "ZAR"
+        }
+      },
+      "policies": {
+        "mileage_policy": "unlimited",
+        "fuel_policy": "full_to_full"
+      },
+      "reviews": {
+        "trustpilot_score": 4,
+        "google_review_score": 4.5,
+        "combined_satisfaction_score": 4.25,
+        "common_complaints": "Busy counters",
+        "common_strengths": "Largest local fleet, strong service"
+      },
+      "vehicle_brands_available": [
+        "Toyota",
+        "Volkswagen",
+        "Hyundai",
+        "Ford",
+        "BMW",
+        "Mercedes-Benz",
+        "Kia"
+      ],
+      "most_affordable_model": {
+        "vehicle_brand": "Kia",
+        "vehicle_model": "Picanto",
+        "estimated_daily_price_range_ZAR": "370-450"
+      }
+    },
+    {
+      "company_name": "Tempest",
+      "parent_company": "Bidvest Group",
+      "website_url": "https://www.tempestcarhire.co.za",
+      "headquarters_country": "South Africa",
+      "year_established": 1986,
+      "operates_in_south_africa": true,
+      "estimated_fleet_size": "unknown",
+      "locations": {
+        "airports": [
+          "OR Tambo",
+          "Cape Town",
+          "King Shaka"
+        ],
+        "cities": [
+          "Johannesburg",
+          "Cape Town",
+          "Durban"
+        ],
+        "total_airport_locations": 3,
+        "total_city_locations": 3,
+        "total_locations": 6
+      },
+      "services": {
+        "corporate_accounts_available": true,
+        "loyalty_program_available": false,
+        "delivery_to_client_available": true,
+        "cross_border_allowed": true,
+        "support_24_hour": true,
+        "roadside_assistance_included": true,
+        "affiliate_program_available": false,
+        "affiliate_network": "Direct",
+        "api_available": "unknown"
+      },
+      "pricing": {
+        "economy_daily_rate": {
+          "min": 300,
+          "max": 480,
+          "average": 390,
+          "currency": "ZAR"
+        },
+        "suv_daily_rate": {
+          "min": 600,
+          "max": 900,
+          "average": 750,
+          "currency": "ZAR"
+        },
+        "luxury_daily_rate": {
+          "min": 1200,
+          "max": 1800,
+          "average": 1500,
+          "currency": "ZAR"
+        },
+        "minimum_rental_days": 1,
+        "long_term_rental_available": true,
+        "monthly_rate_available": true
+      },
+      "costs": {
+        "typical_deposit": {
+          "min": 1500,
+          "max": 3000,
+          "average": 2250,
+          "currency": "ZAR",
+          "hold_type": "credit_card_only"
+        },
+        "typical_excess": {
+          "min": 6000,
+          "max": 10000,
+          "average": 8000,
+          "currency": "ZAR"
+        },
+        "excess_reduction": {
+          "available": true,
+          "cost_per_day_min": 100,
+          "cost_per_day_max": 160,
+          "cost_per_day_average": 130,
+          "currency": "ZAR"
+        }
+      },
+      "policies": {
+        "mileage_policy": "capped",
+        "fuel_policy": "full_to_full"
+      },
+      "reviews": {
+        "trustpilot_score": 3.5,
+        "google_review_score": 4,
+        "combined_satisfaction_score": 3.75,
+        "common_complaints": "Limited luxury options",
+        "common_strengths": "Affordable economy fleet"
+      },
+      "vehicle_brands_available": [
+        "Toyota",
+        "Volkswagen",
+        "Hyundai",
+        "Ford",
+        "Nissan"
+      ],
+      "most_affordable_model": {
+        "vehicle_brand": "Toyota",
+        "vehicle_model": "Agya",
+        "estimated_daily_price_range_ZAR": "300-400"
+      }
+    },
+    {
+      "company_name": "Bluu",
+      "parent_company": "Bidvest Group",
+      "website_url": "https://www.bluu.co.za",
+      "headquarters_country": "South Africa",
+      "year_established": 2021,
+      "operates_in_south_africa": true,
+      "estimated_fleet_size": "unknown",
+      "locations": {
+        "airports": [
+          "OR Tambo",
+          "Cape Town"
+        ],
+        "cities": [
+          "Johannesburg",
+          "Cape Town"
+        ],
+        "total_airport_locations": 2,
+        "total_city_locations": 2,
+        "total_locations": 4
+      },
+      "services": {
+        "corporate_accounts_available": true,
+        "loyalty_program_available": false,
+        "delivery_to_client_available": true,
+        "cross_border_allowed": true,
+        "support_24_hour": true,
+        "roadside_assistance_included": true,
+        "affiliate_program_available": false,
+        "affiliate_network": "Direct",
+        "api_available": "unknown"
+      },
+      "pricing": {
+        "economy_daily_rate": {
+          "min": 320,
+          "max": 500,
+          "average": 410,
+          "currency": "ZAR"
+        },
+        "suv_daily_rate": {
+          "min": 650,
+          "max": 950,
+          "average": 800,
+          "currency": "ZAR"
+        },
+        "luxury_daily_rate": {
+          "min": 1300,
+          "max": 2000,
+          "average": 1650,
+          "currency": "ZAR"
+        },
+        "minimum_rental_days": 1,
+        "long_term_rental_available": true,
+        "monthly_rate_available": true
+      },
+      "costs": {
+        "typical_deposit": {
+          "min": 1500,
+          "max": 3500,
+          "average": 2500,
+          "currency": "ZAR",
+          "hold_type": "credit_card_only"
+        },
+        "typical_excess": {
+          "min": 7000,
+          "max": 12000,
+          "average": 9500,
+          "currency": "ZAR"
+        },
+        "excess_reduction": {
+          "available": true,
+          "cost_per_day_min": 120,
+          "cost_per_day_max": 180,
+          "cost_per_day_average": 150,
+          "currency": "ZAR"
+        }
+      },
+      "policies": {
+        "mileage_policy": "unlimited",
+        "fuel_policy": "full_to_full"
+      },
+      "reviews": {
+        "trustpilot_score": 3.6,
+        "google_review_score": 4.2,
+        "combined_satisfaction_score": 3.9,
+        "common_complaints": "New brand confusion",
+        "common_strengths": "Modern fleet, competitive pricing"
+      },
+      "vehicle_brands_available": [
+        "Toyota",
+        "Volkswagen",
+        "Hyundai",
+        "Ford",
+        "Nissan"
+      ],
+      "most_affordable_model": {
+        "vehicle_brand": "Volkswagen",
+        "vehicle_model": "Polo Vivo",
+        "estimated_daily_price_range_ZAR": "320-420"
+      }
+    },
+    {
+      "company_name": "Green Motion",
+      "parent_company": "Green Motion International",
+      "website_url": "https://greenmotion.co.za",
+      "headquarters_country": "UK",
+      "year_established": 2007,
+      "operates_in_south_africa": true,
+      "estimated_fleet_size": "unknown",
+      "locations": {
+        "airports": [
+          "OR Tambo",
+          "Cape Town"
+        ],
+        "cities": [
+          "Johannesburg",
+          "Cape Town"
+        ],
+        "total_airport_locations": 2,
+        "total_city_locations": 2,
+        "total_locations": 4
+      },
+      "services": {
+        "corporate_accounts_available": true,
+        "loyalty_program_available": false,
+        "delivery_to_client_available": true,
+        "cross_border_allowed": true,
+        "support_24_hour": true,
+        "roadside_assistance_included": true,
+        "affiliate_program_available": false,
+        "affiliate_network": "Direct",
+        "api_available": "unknown"
+      },
+      "pricing": {
+        "economy_daily_rate": {
+          "min": 280,
+          "max": 450,
+          "average": 365,
+          "currency": "ZAR"
+        },
+        "suv_daily_rate": {
+          "min": 600,
+          "max": 850,
+          "average": 725,
+          "currency": "ZAR"
+        },
+        "luxury_daily_rate": {
+          "min": 1200,
+          "max": 1700,
+          "average": 1450,
+          "currency": "ZAR"
+        },
+        "minimum_rental_days": 1,
+        "long_term_rental_available": true,
+        "monthly_rate_available": true
+      },
+      "costs": {
+        "typical_deposit": {
+          "min": 1500,
+          "max": 3000,
+          "average": 2250,
+          "currency": "ZAR",
+          "hold_type": "credit_card_only"
+        },
+        "typical_excess": {
+          "min": 6000,
+          "max": 10000,
+          "average": 8000,
+          "currency": "ZAR"
+        },
+        "excess_reduction": {
+          "available": true,
+          "cost_per_day_min": 100,
+          "cost_per_day_max": 160,
+          "cost_per_day_average": 130,
+          "currency": "ZAR"
+        }
+      },
+      "policies": {
+        "mileage_policy": "capped",
+        "fuel_policy": "varies"
+      },
+      "reviews": {
+        "trustpilot_score": 3.3,
+        "google_review_score": 3.9,
+        "combined_satisfaction_score": 3.6,
+        "common_complaints": "Hidden insurance fees",
+        "common_strengths": "Eco-friendly fleet"
+      },
+      "vehicle_brands_available": [
+        "Toyota",
+        "Volkswagen",
+        "Hyundai",
+        "Ford",
+        "Nissan",
+        "Eco-friendly hybrids"
+      ],
+      "most_affordable_model": {
+        "vehicle_brand": "Toyota",
+        "vehicle_model": "Agya",
+        "estimated_daily_price_range_ZAR": "280-380"
+      }
+    },
+    {
+      "company_name": "Alamo",
+      "parent_company": "Enterprise Holdings",
+      "website_url": "https://www.alamo.co.za",
+      "headquarters_country": "USA",
+      "year_established": 1974,
+      "operates_in_south_africa": true,
+      "estimated_fleet_size": "unknown",
+      "locations": {
+        "airports": [
+          "OR Tambo",
+          "Cape Town"
+        ],
+        "cities": [
+          "Johannesburg",
+          "Cape Town"
+        ],
+        "total_airport_locations": 2,
+        "total_city_locations": 2,
+        "total_locations": 4
+      },
+      "services": {
+        "corporate_accounts_available": true,
+        "loyalty_program_available": true,
+        "delivery_to_client_available": true,
+        "cross_border_allowed": true,
+        "support_24_hour": true,
+        "roadside_assistance_included": true,
+        "affiliate_program_available": false,
+        "affiliate_network": "Direct",
+        "api_available": "unknown"
+      },
+      "pricing": {
+        "economy_daily_rate": {
+          "min": 400,
+          "max": 600,
+          "average": 500,
+          "currency": "ZAR"
+        },
+        "suv_daily_rate": {
+          "min": 750,
+          "max": 1100,
+          "average": 925,
+          "currency": "ZAR"
+        },
+        "luxury_daily_rate": {
+          "min": 1600,
+          "max": 2400,
+          "average": 2000,
+          "currency": "ZAR"
+        },
+        "minimum_rental_days": 1,
+        "long_term_rental_available": true,
+        "monthly_rate_available": true
+      },
+      "costs": {
+        "typical_deposit": {
+          "min": 2500,
+          "max": 5000,
+          "average": 3750,
+          "currency": "ZAR",
+          "hold_type": "credit_card_only"
+        },
+        "typical_excess": {
+          "min": 10000,
+          "max": 18000,
+          "average": 14000,
+          "currency": "ZAR"
+        },
+        "excess_reduction": {
+          "available": true,
+          "cost_per_day_min": 150,
+          "cost_per_day_max": 220,
+          "cost_per_day_average": 185,
+          "currency": "ZAR"
+        }
+      },
+      "policies": {
+        "mileage_policy": "unlimited",
+        "fuel_policy": "full_to_full"
+      },
+      "reviews": {
+        "trustpilot_score": 3.7,
+        "google_review_score": 4.1,
+        "combined_satisfaction_score": 3.9,
+        "common_complaints": "Slow refunds",
+        "common_strengths": "Good for international travellers"
+      },
+      "vehicle_brands_available": [
+        "Toyota",
+        "Volkswagen",
+        "Hyundai",
+        "Ford",
+        "BMW",
+        "Mercedes-Benz"
+      ],
+      "most_affordable_model": {
+        "vehicle_brand": "Hyundai",
+        "vehicle_model": "i10",
+        "estimated_daily_price_range_ZAR": "400-500"
+      }
+    },
+    {
+      "company_name": "National",
+      "parent_company": "Enterprise Holdings",
+      "website_url": "https://www.nationalcar.co.za",
+      "headquarters_country": "USA",
+      "year_established": 1947,
+      "operates_in_south_africa": true,
+      "estimated_fleet_size": "unknown",
+      "locations": {
+        "airports": [
+          "OR Tambo",
+          "Cape Town"
+        ],
+        "cities": [
+          "Johannesburg",
+          "Cape Town"
+        ],
+        "total_airport_locations": 2,
+        "total_city_locations": 2,
+        "total_locations": 4
+      },
+      "services": {
+        "corporate_accounts_available": true,
+        "loyalty_program_available": true,
+        "delivery_to_client_available": true,
+        "cross_border_allowed": true,
+        "support_24_hour": true,
+        "roadside_assistance_included": true,
+        "affiliate_program_available": false,
+        "affiliate_network": "Direct",
+        "api_available": "unknown"
+      },
+      "pricing": {
+        "economy_daily_rate": {
+          "min": 420,
+          "max": 650,
+          "average": 535,
+          "currency": "ZAR"
+        },
+        "suv_daily_rate": {
+          "min": 780,
+          "max": 1150,
+          "average": 965,
+          "currency": "ZAR"
+        },
+        "luxury_daily_rate": {
+          "min": 1700,
+          "max": 2600,
+          "average": 2150,
+          "currency": "ZAR"
+        },
+        "minimum_rental_days": 1,
+        "long_term_rental_available": true,
+        "monthly_rate_available": true
+      },
+      "costs": {
+        "typical_deposit": {
+          "min": 2500,
+          "max": 5000,
+          "average": 3750,
+          "currency": "ZAR",
+          "hold_type": "credit_card_only"
+        },
+        "typical_excess": {
+          "min": 10000,
+          "max": 18000,
+          "average": 14000,
+          "currency": "ZAR"
+        },
+        "excess_reduction": {
+          "available": true,
+          "cost_per_day_min": 160,
+          "cost_per_day_max": 240,
+          "cost_per_day_average": 200,
+          "currency": "ZAR"
+        }
+      },
+      "policies": {
+        "mileage_policy": "unlimited",
+        "fuel_policy": "full_to_full"
+      },
+      "reviews": {
+        "trustpilot_score": 3.8,
+        "google_review_score": 4.2,
+        "combined_satisfaction_score": 4,
+        "common_complaints": "High deposits",
+        "common_strengths": "Strong corporate accounts"
+      },
+      "vehicle_brands_available": [
+        "Toyota",
+        "Volkswagen",
+        "Hyundai",
+        "Ford",
+        "BMW",
+        "Mercedes-Benz"
+      ],
+      "most_affordable_model": {
+        "vehicle_brand": "Volkswagen",
+        "vehicle_model": "Polo Vivo",
+        "estimated_daily_price_range_ZAR": "420-520"
+      }
+    },
+    {
+      "company_name": "Thrifty",
+      "parent_company": "Hertz Global Holdings",
+      "website_url": "https://www.thrifty.co.za",
+      "headquarters_country": "USA",
+      "year_established": 1958,
+      "operates_in_south_africa": true,
+      "estimated_fleet_size": "unknown",
+      "locations": {
+        "airports": [
+          "OR Tambo",
+          "Cape Town"
+        ],
+        "cities": [
+          "Johannesburg",
+          "Cape Town"
+        ],
+        "total_airport_locations": 2,
+        "total_city_locations": 2,
+        "total_locations": 4
+      },
+      "services": {
+        "corporate_accounts_available": true,
+        "loyalty_program_available": false,
+        "delivery_to_client_available": true,
+        "cross_border_allowed": true,
+        "support_24_hour": true,
+        "roadside_assistance_included": true,
+        "affiliate_program_available": false,
+        "affiliate_network": "Direct",
+        "api_available": "unknown"
+      },
+      "pricing": {
+        "economy_daily_rate": {
+          "min": 350,
+          "max": 500,
+          "average": 425,
+          "currency": "ZAR"
+        },
+        "suv_daily_rate": {
+          "min": 650,
+          "max": 950,
+          "average": 800,
+          "currency": "ZAR"
+        },
+        "luxury_daily_rate": {
+          "min": 1300,
+          "max": 2000,
+          "average": 1650,
+          "currency": "ZAR"
+        },
+        "minimum_rental_days": 1,
+        "long_term_rental_available": true,
+        "monthly_rate_available": true
+      },
+      "costs": {
+        "typical_deposit": {
+          "min": 2000,
+          "max": 4000,
+          "average": 3000,
+          "currency": "ZAR",
+          "hold_type": "credit_card_only"
+        },
+        "typical_excess": {
+          "min": 8000,
+          "max": 15000,
+          "average": 11500,
+          "currency": "ZAR"
+        },
+        "excess_reduction": {
+          "available": true,
+          "cost_per_day_min": 120,
+          "cost_per_day_max": 180,
+          "cost_per_day_average": 150,
+          "currency": "ZAR"
+        }
+      },
+      "policies": {
+        "mileage_policy": "capped",
+        "fuel_policy": "full_to_full"
+      },
+      "reviews": {
+        "trustpilot_score": 3.5,
+        "google_review_score": 4,
+        "combined_satisfaction_score": 3.75,
+        "common_complaints": "Older fleet",
+        "common_strengths": "Affordable rentals"
+      },
+      "vehicle_brands_available": [
+        "Toyota",
+        "Volkswagen",
+        "Hyundai",
+        "Ford",
+        "Nissan"
+      ],
+      "most_affordable_model": {
+        "vehicle_brand": "Toyota",
+        "vehicle_model": "Agya",
+        "estimated_daily_price_range_ZAR": "350-450"
+      }
+    },
+    {
+      "company_name": "Dollar",
+      "parent_company": "Hertz Global Holdings",
+      "website_url": "https://www.dollar.co.za",
+      "headquarters_country": "USA",
+      "year_established": 1965,
+      "operates_in_south_africa": true,
+      "estimated_fleet_size": "unknown",
+      "locations": {
+        "airports": [
+          "OR Tambo",
+          "Cape Town"
+        ],
+        "cities": [
+          "Johannesburg",
+          "Cape Town"
+        ],
+        "total_airport_locations": 2,
+        "total_city_locations": 2,
+        "total_locations": 4
+      },
+      "services": {
+        "corporate_accounts_available": true,
+        "loyalty_program_available": false,
+        "delivery_to_client_available": true,
+        "cross_border_allowed": true,
+        "support_24_hour": true,
+        "roadside_assistance_included": true,
+        "affiliate_program_available": false,
+        "affiliate_network": "Direct",
+        "api_available": "unknown"
+      },
+      "pricing": {
+        "economy_daily_rate": {
+          "min": 360,
+          "max": 520,
+          "average": 440,
+          "currency": "ZAR"
+        },
+        "suv_daily_rate": {
+          "min": 700,
+          "max": 1050,
+          "average": 875,
+          "currency": "ZAR"
+        },
+        "luxury_daily_rate": {
+          "min": 1400,
+          "max": 2100,
+          "average": 1750,
+          "currency": "ZAR"
+        },
+        "minimum_rental_days": 1,
+        "long_term_rental_available": true,
+        "monthly_rate_available": true
+      },
+      "costs": {
+        "typical_deposit": {
+          "min": 2000,
+          "max": 4000,
+          "average": 3000,
+          "currency": "ZAR",
+          "hold_type": "credit_card_only"
+        },
+        "typical_excess": {
+          "min": 8000,
+          "max": 15000,
+          "average": 11500,
+          "currency": "ZAR"
+        },
+        "excess_reduction": {
+          "available": true,
+          "cost_per_day_min": 130,
+          "cost_per_day_max": 200,
+          "cost_per_day_average": 165,
+          "currency": "ZAR"
+        }
+      },
+      "policies": {
+        "mileage_policy": "capped",
+        "fuel_policy": "full_to_full"
+      },
+      "reviews": {
+        "trustpilot_score": 3.6,
+        "google_review_score": 4.1,
+        "combined_satisfaction_score": 3.85,
+        "common_complaints": "Limited locations",
+        "common_strengths": "Affordable pricing"
+      },
+      "vehicle_brands_available": [
+        "Toyota",
+        "Volkswagen",
+        "Hyundai",
+        "Ford",
+        "Nissan"
+      ],
+      "most_affordable_model": {
+        "vehicle_brand": "Hyundai",
+        "vehicle_model": "i10",
+        "estimated_daily_price_range_ZAR": "360-460"
+      }
+    },
+    {
+      "company_name": "Cape Car Hire",
+      "parent_company": "Independent",
+      "website_url": "https://www.capecarhire.co.za",
+      "headquarters_country": "South Africa",
+      "year_established": 1998,
+      "operates_in_south_africa": true,
+      "estimated_fleet_size": "unknown",
+      "locations": {
+        "airports": [
+          "Cape Town"
+        ],
+        "cities": [
+          "Cape Town",
+          "Johannesburg",
+          "Durban"
+        ],
+        "total_airport_locations": 1,
+        "total_city_locations": 3,
+        "total_locations": 4
+      },
+      "services": {
+        "corporate_accounts_available": true,
+        "loyalty_program_available": false,
+        "delivery_to_client_available": true,
+        "cross_border_allowed": true,
+        "support_24_hour": true,
+        "roadside_assistance_included": true,
+        "affiliate_program_available": false,
+        "affiliate_network": "Direct",
+        "api_available": "unknown"
+      },
+      "pricing": {
+        "economy_daily_rate": {
+          "min": 300,
+          "max": 450,
+          "average": 375,
+          "currency": "ZAR"
+        },
+        "suv_daily_rate": {
+          "min": 650,
+          "max": 950,
+          "average": 800,
+          "currency": "ZAR"
+        },
+        "luxury_daily_rate": {
+          "min": 1300,
+          "max": 2000,
+          "average": 1650,
+          "currency": "ZAR"
+        },
+        "minimum_rental_days": 1,
+        "long_term_rental_available": true,
+        "monthly_rate_available": true
+      },
+      "costs": {
+        "typical_deposit": {
+          "min": 1500,
+          "max": 3000,
+          "average": 2250,
+          "currency": "ZAR",
+          "hold_type": "credit_card_only"
+        },
+        "typical_excess": {
+          "min": 6000,
+          "max": 10000,
+          "average": 8000,
+          "currency": "ZAR"
+        },
+        "excess_reduction": {
+          "available": true,
+          "cost_per_day_min": 100,
+          "cost_per_day_max": 160,
+          "cost_per_day_average": 130,
+          "currency": "ZAR"
+        }
+      },
+      "policies": {
+        "mileage_policy": "unlimited",
+        "fuel_policy": "full_to_full"
+      },
+      "reviews": {
+        "trustpilot_score": "unknown",
+        "google_review_score": 4.1,
+        "combined_satisfaction_score": 4.1,
+        "common_complaints": "Older fleet, limited luxury options",
+        "common_strengths": "Affordable rentals, strong local presence in Cape Town"
+      },
+      "vehicle_brands_available": [
+        "Toyota",
+        "Volkswagen",
+        "Hyundai",
+        "Ford",
+        "Nissan",
+        "Kia"
+      ],
+      "most_affordable_model": {
+        "vehicle_brand": "Toyota",
+        "vehicle_model": "Agya",
+        "estimated_daily_price_range_ZAR": "300-400"
+      }
+    },
+    {
+      "company_name": "Drive Africa Car Hire",
+      "parent_company": "Independent",
+      "website_url": "https://www.driveafrica.co.za",
+      "headquarters_country": "South Africa",
+      "year_established": 2002,
+      "operates_in_south_africa": true,
+      "estimated_fleet_size": "unknown",
+      "locations": {
+        "airports": [
+          "Cape Town",
+          "OR Tambo",
+          "King Shaka"
+        ],
+        "cities": [
+          "Cape Town",
+          "Johannesburg",
+          "Durban",
+          "Pretoria"
+        ],
+        "total_airport_locations": 3,
+        "total_city_locations": 4,
+        "total_locations": 7
+      },
+      "services": {
+        "corporate_accounts_available": true,
+        "loyalty_program_available": false,
+        "delivery_to_client_available": true,
+        "cross_border_allowed": true,
+        "support_24_hour": true,
+        "roadside_assistance_included": true,
+        "affiliate_program_available": false,
+        "affiliate_network": "Direct",
+        "api_available": "unknown"
+      },
+      "pricing": {
+        "economy_daily_rate": {
+          "min": 320,
+          "max": 480,
+          "average": 400,
+          "currency": "ZAR"
+        },
+        "suv_daily_rate": {
+          "min": 650,
+          "max": 950,
+          "average": 800,
+          "currency": "ZAR"
+        },
+        "luxury_daily_rate": {
+          "min": 1300,
+          "max": 2000,
+          "average": 1650,
+          "currency": "ZAR"
+        },
+        "minimum_rental_days": 1,
+        "long_term_rental_available": true,
+        "monthly_rate_available": true
+      },
+      "costs": {
+        "typical_deposit": {
+          "min": 1500,
+          "max": 3500,
+          "average": 2500,
+          "currency": "ZAR",
+          "hold_type": "credit_card_only"
+        },
+        "typical_excess": {
+          "min": 7000,
+          "max": 12000,
+          "average": 9500,
+          "currency": "ZAR"
+        },
+        "excess_reduction": {
+          "available": true,
+          "cost_per_day_min": 120,
+          "cost_per_day_max": 180,
+          "cost_per_day_average": 150,
+          "currency": "ZAR"
+        }
+      },
+      "policies": {
+        "mileage_policy": "unlimited",
+        "fuel_policy": "full_to_full"
+      },
+      "reviews": {
+        "trustpilot_score": "unknown",
+        "google_review_score": 4.1,
+        "combined_satisfaction_score": 4.1,
+        "common_complaints": "Limited luxury fleet, smaller brand recognition",
+        "common_strengths": "Affordable rentals, strong service for tourists and cross-border travel"
+      },
+      "vehicle_brands_available": [
+        "Toyota",
+        "Volkswagen",
+        "Hyundai",
+        "Ford",
+        "Nissan",
+        "Kia"
+      ],
+      "most_affordable_model": {
+        "vehicle_brand": "Toyota",
+        "vehicle_model": "Agya",
+        "estimated_daily_price_range_ZAR": "320-400"
+      }
+    },
+    {
+      "company_name": "Around About Cars",
+      "parent_company": "Independent",
+      "website_url": "https://www.aroundaboutcars.com",
+      "headquarters_country": "South Africa",
+      "year_established": 1995,
+      "operates_in_south_africa": true,
+      "estimated_fleet_size": "unknown",
+      "locations": {
+        "airports": [
+          "Cape Town",
+          "OR Tambo",
+          "King Shaka"
+        ],
+        "cities": [
+          "Cape Town",
+          "Johannesburg",
+          "Durban",
+          "Pretoria"
+        ],
+        "total_airport_locations": 3,
+        "total_city_locations": 4,
+        "total_locations": 7
+      },
+      "services": {
+        "corporate_accounts_available": true,
+        "loyalty_program_available": false,
+        "delivery_to_client_available": true,
+        "cross_border_allowed": true,
+        "support_24_hour": true,
+        "roadside_assistance_included": true,
+        "affiliate_program_available": false,
+        "affiliate_network": "Direct",
+        "api_available": "unknown"
+      },
+      "pricing": {
+        "economy_daily_rate": {
+          "min": 300,
+          "max": 450,
+          "average": 375,
+          "currency": "ZAR"
+        },
+        "suv_daily_rate": {
+          "min": 650,
+          "max": 950,
+          "average": 800,
+          "currency": "ZAR"
+        },
+        "luxury_daily_rate": {
+          "min": 1300,
+          "max": 2000,
+          "average": 1650,
+          "currency": "ZAR"
+        },
+        "minimum_rental_days": 1,
+        "long_term_rental_available": true,
+        "monthly_rate_available": true
+      },
+      "costs": {
+        "typical_deposit": {
+          "min": 1500,
+          "max": 3500,
+          "average": 2500,
+          "currency": "ZAR",
+          "hold_type": "credit_card_only"
+        },
+        "typical_excess": {
+          "min": 7000,
+          "max": 12000,
+          "average": 9500,
+          "currency": "ZAR"
+        },
+        "excess_reduction": {
+          "available": true,
+          "cost_per_day_min": 120,
+          "cost_per_day_max": 180,
+          "cost_per_day_average": 150,
+          "currency": "ZAR"
+        }
+      },
+      "policies": {
+        "mileage_policy": "unlimited",
+        "fuel_policy": "full_to_full"
+      },
+      "reviews": {
+        "trustpilot_score": "unknown",
+        "google_review_score": 4.2,
+        "combined_satisfaction_score": 4.2,
+        "common_complaints": "Limited luxury fleet, smaller brand recognition",
+        "common_strengths": "Affordable rentals, strong service for tourists, wide coverage in Cape Town"
+      },
+      "vehicle_brands_available": [
+        "Toyota",
+        "Volkswagen",
+        "Hyundai",
+        "Ford",
+        "Nissan",
+        "Kia"
+      ],
+      "most_affordable_model": {
+        "vehicle_brand": "Hyundai",
+        "vehicle_model": "i10",
+        "estimated_daily_price_range_ZAR": "300-400"
+      }
+    },
+    {
+      "company_name": "Bidvest Car Rental",
+      "parent_company": "Bidvest Group",
+      "website_url": "https://www.bidvestcarrental.co.za",
+      "headquarters_country": "South Africa",
+      "year_established": 1997,
+      "operates_in_south_africa": true,
+      "estimated_fleet_size": "unknown",
+      "locations": {
+        "airports": [
+          "OR Tambo",
+          "Cape Town",
+          "King Shaka",
+          "Lanseria",
+          "Port Elizabeth"
+        ],
+        "cities": [
+          "Johannesburg",
+          "Cape Town",
+          "Durban",
+          "Pretoria"
+        ],
+        "total_airport_locations": 5,
+        "total_city_locations": 4,
+        "total_locations": 9
+      },
+      "services": {
+        "corporate_accounts_available": true,
+        "loyalty_program_available": true,
+        "delivery_to_client_available": true,
+        "cross_border_allowed": true,
+        "support_24_hour": true,
+        "roadside_assistance_included": true,
+        "affiliate_program_available": false,
+        "affiliate_network": "Direct",
+        "api_available": "unknown"
+      },
+      "pricing": {
+        "economy_daily_rate": {
+          "min": 350,
+          "max": 500,
+          "average": 425,
+          "currency": "ZAR"
+        },
+        "suv_daily_rate": {
+          "min": 700,
+          "max": 1050,
+          "average": 875,
+          "currency": "ZAR"
+        },
+        "luxury_daily_rate": {
+          "min": 1400,
+          "max": 2100,
+          "average": 1750,
+          "currency": "ZAR"
+        },
+        "minimum_rental_days": 1,
+        "long_term_rental_available": true,
+        "monthly_rate_available": true
+      },
+      "costs": {
+        "typical_deposit": {
+          "min": 2000,
+          "max": 4000,
+          "average": 3000,
+          "currency": "ZAR",
+          "hold_type": "credit_card_only"
+        },
+        "typical_excess": {
+          "min": 8000,
+          "max": 15000,
+          "average": 11500,
+          "currency": "ZAR"
+        },
+        "excess_reduction": {
+          "available": true,
+          "cost_per_day_min": 120,
+          "cost_per_day_max": 180,
+          "cost_per_day_average": 150,
+          "currency": "ZAR"
+        }
+      },
+      "policies": {
+        "mileage_policy": "unlimited",
+        "fuel_policy": "full_to_full"
+      },
+      "reviews": {
+        "trustpilot_score": "unknown",
+        "google_review_score": 4.2,
+        "combined_satisfaction_score": 4.2,
+        "common_complaints": "High deposits, occasional wait times",
+        "common_strengths": "Strong airport coverage, reliable service, good corporate options"
+      },
+      "vehicle_brands_available": [
+        "Toyota",
+        "Volkswagen",
+        "Hyundai",
+        "Ford",
+        "Nissan",
+        "Kia",
+        "BMW",
+        "Mercedes-Benz"
+      ],
+      "most_affordable_model": {
+        "vehicle_brand": "Toyota",
+        "vehicle_model": "Agya",
+        "estimated_daily_price_range_ZAR": "350-450"
+      }
+    },
+    {
+      "company_name": "Rent a Cheapie",
+      "parent_company": "Independent",
+      "website_url": "https://www.rentacheapie.co.za",
+      "headquarters_country": "South Africa",
+      "year_established": 2006,
+      "operates_in_south_africa": true,
+      "estimated_fleet_size": "unknown",
+      "locations": {
+        "airports": [
+          "Cape Town"
+        ],
+        "cities": [
+          "Cape Town",
+          "Johannesburg",
+          "Durban"
+        ],
+        "total_airport_locations": 1,
+        "total_city_locations": 3,
+        "total_locations": 4
+      },
+      "services": {
+        "corporate_accounts_available": false,
+        "loyalty_program_available": false,
+        "delivery_to_client_available": true,
+        "cross_border_allowed": true,
+        "support_24_hour": true,
+        "roadside_assistance_included": true,
+        "affiliate_program_available": false,
+        "affiliate_network": "Direct",
+        "api_available": "unknown"
+      },
+      "pricing": {
+        "economy_daily_rate": {
+          "min": 250,
+          "max": 400,
+          "average": 325,
+          "currency": "ZAR"
+        },
+        "suv_daily_rate": {
+          "min": 600,
+          "max": 850,
+          "average": 725,
+          "currency": "ZAR"
+        },
+        "luxury_daily_rate": {
+          "min": 1200,
+          "max": 1800,
+          "average": 1500,
+          "currency": "ZAR"
+        },
+        "minimum_rental_days": 1,
+        "long_term_rental_available": true,
+        "monthly_rate_available": true
+      },
+      "costs": {
+        "typical_deposit": {
+          "min": 1000,
+          "max": 2500,
+          "average": 1750,
+          "currency": "ZAR",
+          "hold_type": "credit_card_only"
+        },
+        "typical_excess": {
+          "min": 5000,
+          "max": 9000,
+          "average": 7000,
+          "currency": "ZAR"
+        },
+        "excess_reduction": {
+          "available": true,
+          "cost_per_day_min": 100,
+          "cost_per_day_max": 150,
+          "cost_per_day_average": 125,
+          "currency": "ZAR"
+        }
+      },
+      "policies": {
+        "mileage_policy": "capped",
+        "fuel_policy": "full_to_full"
+      },
+      "reviews": {
+        "trustpilot_score": "unknown",
+        "google_review_score": 4,
+        "combined_satisfaction_score": 4,
+        "common_complaints": "Older vehicles, limited luxury options",
+        "common_strengths": "Very affordable rentals, popular with budget travellers"
+      },
+      "vehicle_brands_available": [
+        "Toyota",
+        "Volkswagen",
+        "Hyundai",
+        "Ford",
+        "Nissan",
+        "Kia"
+      ],
+      "most_affordable_model": {
+        "vehicle_brand": "Toyota",
+        "vehicle_model": "Tazz",
+        "estimated_daily_price_range_ZAR": "250-350"
+      }
+    },
+    {
+      "company_name": "Safari Car Rental",
+      "parent_company": "Independent",
+      "website_url": "https://www.safaricarrental.co.za",
+      "headquarters_country": "South Africa",
+      "year_established": 1995,
+      "operates_in_south_africa": true,
+      "estimated_fleet_size": "unknown",
+      "locations": {
+        "airports": [
+          "OR Tambo",
+          "Cape Town",
+          "King Shaka"
+        ],
+        "cities": [
+          "Johannesburg",
+          "Cape Town",
+          "Durban",
+          "Pretoria"
+        ],
+        "total_airport_locations": 3,
+        "total_city_locations": 4,
+        "total_locations": 7
+      },
+      "services": {
+        "corporate_accounts_available": true,
+        "loyalty_program_available": false,
+        "delivery_to_client_available": true,
+        "cross_border_allowed": true,
+        "support_24_hour": true,
+        "roadside_assistance_included": true,
+        "affiliate_program_available": false,
+        "affiliate_network": "Direct",
+        "api_available": "unknown"
+      },
+      "pricing": {
+        "economy_daily_rate": {
+          "min": 320,
+          "max": 480,
+          "average": 400,
+          "currency": "ZAR"
+        },
+        "suv_daily_rate": {
+          "min": 650,
+          "max": 950,
+          "average": 800,
+          "currency": "ZAR"
+        },
+        "luxury_daily_rate": {
+          "min": 1300,
+          "max": 2000,
+          "average": 1650,
+          "currency": "ZAR"
+        },
+        "minimum_rental_days": 1,
+        "long_term_rental_available": true,
+        "monthly_rate_available": true
+      },
+      "costs": {
+        "typical_deposit": {
+          "min": 1500,
+          "max": 3500,
+          "average": 2500,
+          "currency": "ZAR",
+          "hold_type": "credit_card_only"
+        },
+        "typical_excess": {
+          "min": 7000,
+          "max": 12000,
+          "average": 9500,
+          "currency": "ZAR"
+        },
+        "excess_reduction": {
+          "available": true,
+          "cost_per_day_min": 120,
+          "cost_per_day_max": 180,
+          "cost_per_day_average": 150,
+          "currency": "ZAR"
+        }
+      },
+      "policies": {
+        "mileage_policy": "unlimited",
+        "fuel_policy": "full_to_full"
+      },
+      "reviews": {
+        "trustpilot_score": "unknown",
+        "google_review_score": 4.2,
+        "combined_satisfaction_score": 4.2,
+        "common_complaints": "Limited luxury fleet, smaller brand recognition",
+        "common_strengths": "Affordable economy rentals, strong service for tourists"
+      },
+      "vehicle_brands_available": [
+        "Toyota",
+        "Volkswagen",
+        "Hyundai",
+        "Ford",
+        "Nissan",
+        "Kia"
+      ],
+      "most_affordable_model": {
+        "vehicle_brand": "Toyota",
+        "vehicle_model": "Agya",
+        "estimated_daily_price_range_ZAR": "320-400"
+      }
+    },
+    {
+      "company_name": "CABS Car Hire",
+      "parent_company": "Independent",
+      "website_url": "https://www.cabscarhire.co.za",
+      "headquarters_country": "South Africa",
+      "year_established": 1990,
+      "operates_in_south_africa": true,
+      "estimated_fleet_size": "unknown",
+      "locations": {
+        "airports": [
+          "Cape Town",
+          "OR Tambo"
+        ],
+        "cities": [
+          "Cape Town",
+          "Johannesburg",
+          "Durban"
+        ],
+        "total_airport_locations": 2,
+        "total_city_locations": 3,
+        "total_locations": 5
+      },
+      "services": {
+        "corporate_accounts_available": true,
+        "loyalty_program_available": false,
+        "delivery_to_client_available": true,
+        "cross_border_allowed": true,
+        "support_24_hour": true,
+        "roadside_assistance_included": true,
+        "affiliate_program_available": false,
+        "affiliate_network": "Direct",
+        "api_available": "unknown"
+      },
+      "pricing": {
+        "economy_daily_rate": {
+          "min": 320,
+          "max": 480,
+          "average": 400,
+          "currency": "ZAR"
+        },
+        "suv_daily_rate": {
+          "min": 650,
+          "max": 950,
+          "average": 800,
+          "currency": "ZAR"
+        },
+        "luxury_daily_rate": {
+          "min": 1300,
+          "max": 2000,
+          "average": 1650,
+          "currency": "ZAR"
+        },
+        "minimum_rental_days": 1,
+        "long_term_rental_available": true,
+        "monthly_rate_available": true
+      },
+      "costs": {
+        "typical_deposit": {
+          "min": 1500,
+          "max": 3500,
+          "average": 2500,
+          "currency": "ZAR",
+          "hold_type": "credit_card_only"
+        },
+        "typical_excess": {
+          "min": 7000,
+          "max": 12000,
+          "average": 9500,
+          "currency": "ZAR"
+        },
+        "excess_reduction": {
+          "available": true,
+          "cost_per_day_min": 120,
+          "cost_per_day_max": 180,
+          "cost_per_day_average": 150,
+          "currency": "ZAR"
+        }
+      },
+      "policies": {
+        "mileage_policy": "unlimited",
+        "fuel_policy": "full_to_full"
+      },
+      "reviews": {
+        "trustpilot_score": "unknown",
+        "google_review_score": 4.1,
+        "combined_satisfaction_score": 4.1,
+        "common_complaints": "Older fleet, limited luxury options",
+        "common_strengths": "Affordable rentals, strong local presence in Cape Town and Johannesburg"
+      },
+      "vehicle_brands_available": [
+        "Toyota",
+        "Volkswagen",
+        "Hyundai",
+        "Ford",
+        "Nissan",
+        "Kia"
+      ],
+      "most_affordable_model": {
+        "vehicle_brand": "Toyota",
+        "vehicle_model": "Agya",
+        "estimated_daily_price_range_ZAR": "320-400"
+      }
+    },
+    {
+      "company_name": "Comet Car Hire",
+      "parent_company": "Independent",
+      "website_url": "https://www.cometcar.co.za",
+      "headquarters_country": "South Africa",
+      "year_established": 1989,
+      "operates_in_south_africa": true,
+      "estimated_fleet_size": "unknown",
+      "locations": {
+        "airports": [
+          "Cape Town",
+          "OR Tambo"
+        ],
+        "cities": [
+          "Cape Town",
+          "Johannesburg",
+          "Durban"
+        ],
+        "total_airport_locations": 2,
+        "total_city_locations": 3,
+        "total_locations": 5
+      },
+      "services": {
+        "corporate_accounts_available": true,
+        "loyalty_program_available": false,
+        "delivery_to_client_available": true,
+        "cross_border_allowed": true,
+        "support_24_hour": true,
+        "roadside_assistance_included": true,
+        "affiliate_program_available": false,
+        "affiliate_network": "Direct",
+        "api_available": "unknown"
+      },
+      "pricing": {
+        "economy_daily_rate": {
+          "min": 320,
+          "max": 480,
+          "average": 400,
+          "currency": "ZAR"
+        },
+        "suv_daily_rate": {
+          "min": 650,
+          "max": 950,
+          "average": 800,
+          "currency": "ZAR"
+        },
+        "luxury_daily_rate": {
+          "min": 1300,
+          "max": 2000,
+          "average": 1650,
+          "currency": "ZAR"
+        },
+        "minimum_rental_days": 1,
+        "long_term_rental_available": true,
+        "monthly_rate_available": true
+      },
+      "costs": {
+        "typical_deposit": {
+          "min": 1500,
+          "max": 3500,
+          "average": 2500,
+          "currency": "ZAR",
+          "hold_type": "credit_card_only"
+        },
+        "typical_excess": {
+          "min": 7000,
+          "max": 12000,
+          "average": 9500,
+          "currency": "ZAR"
+        },
+        "excess_reduction": {
+          "available": true,
+          "cost_per_day_min": 120,
+          "cost_per_day_max": 180,
+          "cost_per_day_average": 150,
+          "currency": "ZAR"
+        }
+      },
+      "policies": {
+        "mileage_policy": "unlimited",
+        "fuel_policy": "full_to_full"
+      },
+      "reviews": {
+        "trustpilot_score": "unknown",
+        "google_review_score": 4,
+        "combined_satisfaction_score": 4,
+        "common_complaints": "Older fleet, limited luxury options",
+        "common_strengths": "Affordable rentals, strong local presence in Cape Town"
+      },
+      "vehicle_brands_available": [
+        "Toyota",
+        "Volkswagen",
+        "Hyundai",
+        "Ford",
+        "Nissan",
+        "Kia"
+      ],
+      "most_affordable_model": {
+        "vehicle_brand": "Toyota",
+        "vehicle_model": "Agya",
+        "estimated_daily_price_range_ZAR": "320-400"
+      }
+    },
+    {
+      "company_name": "Zebra Car Hire",
+      "parent_company": "Independent",
+      "website_url": "https://www.zebracarhire.co.za",
+      "headquarters_country": "South Africa",
+      "year_established": 2001,
+      "operates_in_south_africa": true,
+      "estimated_fleet_size": "unknown",
+      "locations": {
+        "airports": [
+          "Cape Town",
+          "OR Tambo"
+        ],
+        "cities": [
+          "Cape Town",
+          "Johannesburg",
+          "Durban"
+        ],
+        "total_airport_locations": 2,
+        "total_city_locations": 3,
+        "total_locations": 5
+      },
+      "services": {
+        "corporate_accounts_available": true,
+        "loyalty_program_available": false,
+        "delivery_to_client_available": true,
+        "cross_border_allowed": true,
+        "support_24_hour": true,
+        "roadside_assistance_included": true,
+        "affiliate_program_available": false,
+        "affiliate_network": "Direct",
+        "api_available": "unknown"
+      },
+      "pricing": {
+        "economy_daily_rate": {
+          "min": 300,
+          "max": 450,
+          "average": 375,
+          "currency": "ZAR"
+        },
+        "suv_daily_rate": {
+          "min": 650,
+          "max": 950,
+          "average": 800,
+          "currency": "ZAR"
+        },
+        "luxury_daily_rate": {
+          "min": 1300,
+          "max": 2000,
+          "average": 1650,
+          "currency": "ZAR"
+        },
+        "minimum_rental_days": 1,
+        "long_term_rental_available": true,
+        "monthly_rate_available": true
+      },
+      "costs": {
+        "typical_deposit": {
+          "min": 1500,
+          "max": 3000,
+          "average": 2250,
+          "currency": "ZAR",
+          "hold_type": "credit_card_only"
+        },
+        "typical_excess": {
+          "min": 6000,
+          "max": 10000,
+          "average": 8000,
+          "currency": "ZAR"
+        },
+        "excess_reduction": {
+          "available": true,
+          "cost_per_day_min": 100,
+          "cost_per_day_max": 160,
+          "cost_per_day_average": 130,
+          "currency": "ZAR"
+        }
+      },
+      "policies": {
+        "mileage_policy": "unlimited",
+        "fuel_policy": "full_to_full"
+      },
+      "reviews": {
+        "trustpilot_score": "unknown",
+        "google_review_score": 4.1,
+        "combined_satisfaction_score": 4.1,
+        "common_complaints": "Limited luxury fleet, smaller brand recognition",
+        "common_strengths": "Affordable economy rentals, personalized service"
+      },
+      "vehicle_brands_available": [
+        "Toyota",
+        "Volkswagen",
+        "Hyundai",
+        "Ford",
+        "Nissan",
+        "Kia"
+      ],
+      "most_affordable_model": {
+        "vehicle_brand": "Hyundai",
+        "vehicle_model": "i10",
+        "estimated_daily_price_range_ZAR": "300-400"
+      }
+    },
+    {
+      "company_name": "Capital Car Hire",
+      "parent_company": "Independent",
+      "website_url": "https://www.capitalcar.co.za",
+      "headquarters_country": "South Africa",
+      "year_established": 1991,
+      "operates_in_south_africa": true,
+      "estimated_fleet_size": "unknown",
+      "locations": {
+        "airports": [
+          "King Shaka",
+          "Cape Town",
+          "OR Tambo"
+        ],
+        "cities": [
+          "Durban",
+          "Cape Town",
+          "Johannesburg"
+        ],
+        "total_airport_locations": 3,
+        "total_city_locations": 3,
+        "total_locations": 6
+      },
+      "services": {
+        "corporate_accounts_available": true,
+        "loyalty_program_available": false,
+        "delivery_to_client_available": true,
+        "cross_border_allowed": true,
+        "support_24_hour": true,
+        "roadside_assistance_included": true,
+        "affiliate_program_available": false,
+        "affiliate_network": "Direct",
+        "api_available": "unknown"
+      },
+      "pricing": {
+        "economy_daily_rate": {
+          "min": 320,
+          "max": 480,
+          "average": 400,
+          "currency": "ZAR"
+        },
+        "suv_daily_rate": {
+          "min": 650,
+          "max": 950,
+          "average": 800,
+          "currency": "ZAR"
+        },
+        "luxury_daily_rate": {
+          "min": 1300,
+          "max": 2000,
+          "average": 1650,
+          "currency": "ZAR"
+        },
+        "minimum_rental_days": 1,
+        "long_term_rental_available": true,
+        "monthly_rate_available": true
+      },
+      "costs": {
+        "typical_deposit": {
+          "min": 1500,
+          "max": 3500,
+          "average": 2500,
+          "currency": "ZAR",
+          "hold_type": "credit_card_only"
+        },
+        "typical_excess": {
+          "min": 7000,
+          "max": 12000,
+          "average": 9500,
+          "currency": "ZAR"
+        },
+        "excess_reduction": {
+          "available": true,
+          "cost_per_day_min": 120,
+          "cost_per_day_max": 180,
+          "cost_per_day_average": 150,
+          "currency": "ZAR"
+        }
+      },
+      "policies": {
+        "mileage_policy": "unlimited",
+        "fuel_policy": "full_to_full"
+      },
+      "reviews": {
+        "trustpilot_score": "unknown",
+        "google_review_score": 4.2,
+        "combined_satisfaction_score": 4.2,
+        "common_complaints": "Limited luxury options, smaller fleet size",
+        "common_strengths": "Strong local presence in Durban and Cape Town, affordable economy rentals"
+      },
+      "vehicle_brands_available": [
+        "Toyota",
+        "Volkswagen",
+        "Hyundai",
+        "Ford",
+        "Nissan",
+        "Kia"
+      ],
+      "most_affordable_model": {
+        "vehicle_brand": "Toyota",
+        "vehicle_model": "Agya",
+        "estimated_daily_price_range_ZAR": "320-400"
+      }
+    },
+    {
+      "company_name": "Keddy",
+      "parent_company": "Europcar Mobility Group",
+      "website_url": "https://www.europcar.co.za",
+      "headquarters_country": "France",
+      "year_established": 2015,
+      "operates_in_south_africa": true,
+      "estimated_fleet_size": "unknown",
+      "locations": {
+        "airports": [
+          "OR Tambo",
+          "Cape Town",
+          "King Shaka",
+          "Port Elizabeth"
+        ],
+        "cities": [
+          "Johannesburg",
+          "Cape Town",
+          "Durban",
+          "Pretoria"
+        ],
+        "total_airport_locations": 4,
+        "total_city_locations": 4,
+        "total_locations": 8
+      },
+      "services": {
+        "corporate_accounts_available": true,
+        "loyalty_program_available": false,
+        "delivery_to_client_available": true,
+        "cross_border_allowed": true,
+        "support_24_hour": true,
+        "roadside_assistance_included": true,
+        "affiliate_program_available": false,
+        "affiliate_network": "Direct",
+        "api_available": "unknown"
+      },
+      "pricing": {
+        "economy_daily_rate": {
+          "min": 350,
+          "max": 500,
+          "average": 425,
+          "currency": "ZAR"
+        },
+        "suv_daily_rate": {
+          "min": 650,
+          "max": 950,
+          "average": 800,
+          "currency": "ZAR"
+        },
+        "luxury_daily_rate": {
+          "min": 1300,
+          "max": 2000,
+          "average": 1650,
+          "currency": "ZAR"
+        },
+        "minimum_rental_days": 1,
+        "long_term_rental_available": true,
+        "monthly_rate_available": true
+      },
+      "costs": {
+        "typical_deposit": {
+          "min": 1500,
+          "max": 3500,
+          "average": 2500,
+          "currency": "ZAR",
+          "hold_type": "credit_card_only"
+        },
+        "typical_excess": {
+          "min": 7000,
+          "max": 12000,
+          "average": 9500,
+          "currency": "ZAR"
+        },
+        "excess_reduction": {
+          "available": true,
+          "cost_per_day_min": 120,
+          "cost_per_day_max": 180,
+          "cost_per_day_average": 150,
+          "currency": "ZAR"
+        }
+      },
+      "policies": {
+        "mileage_policy": "unlimited",
+        "fuel_policy": "full_to_full"
+      },
+      "reviews": {
+        "trustpilot_score": "unknown",
+        "google_review_score": 4.3,
+        "combined_satisfaction_score": 4.3,
+        "common_complaints": "Limited brand recognition",
+        "common_strengths": "Affordable rates, backed by Europcar network"
+      },
+      "vehicle_brands_available": [
+        "Toyota",
+        "Volkswagen",
+        "Kia",
+        "Hyundai"
+      ],
+      "most_affordable_model": {
+        "vehicle_brand": "Kia",
+        "vehicle_model": "Picanto",
+        "estimated_daily_price_range_ZAR": "350-450"
+      }
+    },
+    {
+      "company_name": "U-Save",
+      "parent_company": "Independent",
+      "website_url": "https://www.usave.co.za",
+      "headquarters_country": "South Africa",
+      "year_established": 2004,
+      "operates_in_south_africa": true,
+      "estimated_fleet_size": "unknown",
+      "locations": {
+        "airports": [
+          "OR Tambo",
+          "Cape Town",
+          "King Shaka",
+          "Lanseria"
+        ],
+        "cities": [
+          "Johannesburg",
+          "Cape Town",
+          "Durban",
+          "Pretoria"
+        ],
+        "total_airport_locations": 4,
+        "total_city_locations": 4,
+        "total_locations": 8
+      },
+      "services": {
+        "corporate_accounts_available": true,
+        "loyalty_program_available": false,
+        "delivery_to_client_available": true,
+        "cross_border_allowed": true,
+        "support_24_hour": true,
+        "roadside_assistance_included": true,
+        "affiliate_program_available": false,
+        "affiliate_network": "Direct",
+        "api_available": "unknown"
+      },
+      "pricing": {
+        "economy_daily_rate": {
+          "min": 300,
+          "max": 450,
+          "average": 375,
+          "currency": "ZAR"
+        },
+        "suv_daily_rate": {
+          "min": 600,
+          "max": 900,
+          "average": 750,
+          "currency": "ZAR"
+        },
+        "luxury_daily_rate": {
+          "min": 1200,
+          "max": 1800,
+          "average": 1500,
+          "currency": "ZAR"
+        },
+        "minimum_rental_days": 1,
+        "long_term_rental_available": true,
+        "monthly_rate_available": true
+      },
+      "costs": {
+        "typical_deposit": {
+          "min": 1500,
+          "max": 3000,
+          "average": 2250,
+          "currency": "ZAR",
+          "hold_type": "credit_card_only"
+        },
+        "typical_excess": {
+          "min": 6000,
+          "max": 10000,
+          "average": 8000,
+          "currency": "ZAR"
+        },
+        "excess_reduction": {
+          "available": true,
+          "cost_per_day_min": 100,
+          "cost_per_day_max": 160,
+          "cost_per_day_average": 130,
+          "currency": "ZAR"
+        }
+      },
+      "policies": {
+        "mileage_policy": "capped",
+        "fuel_policy": "full_to_full"
+      },
+      "reviews": {
+        "trustpilot_score": "unknown",
+        "google_review_score": 4,
+        "combined_satisfaction_score": 4,
+        "common_complaints": "Limited luxury options, smaller fleet",
+        "common_strengths": "Affordable economy rentals, good airport coverage"
+      },
+      "vehicle_brands_available": [
+        "Toyota",
+        "Volkswagen",
+        "Hyundai",
+        "Ford",
+        "Nissan",
+        "Kia"
+      ],
+      "most_affordable_model": {
+        "vehicle_brand": "Toyota",
+        "vehicle_model": "Agya",
+        "estimated_daily_price_range_ZAR": "300-400"
+      }
+    },
+    {
+      "company_name": "Carwiz Rent a Car",
+      "parent_company": "Carwiz International",
+      "website_url": "https://www.carwiz.co.za",
+      "headquarters_country": "Croatia",
+      "year_established": 2017,
+      "operates_in_south_africa": true,
+      "estimated_fleet_size": "unknown",
+      "locations": {
+        "airports": [
+          "OR Tambo",
+          "Cape Town"
+        ],
+        "cities": [
+          "Johannesburg",
+          "Cape Town",
+          "Durban"
+        ],
+        "total_airport_locations": 2,
+        "total_city_locations": 3,
+        "total_locations": 5
+      },
+      "services": {
+        "corporate_accounts_available": true,
+        "loyalty_program_available": false,
+        "delivery_to_client_available": true,
+        "cross_border_allowed": true,
+        "support_24_hour": true,
+        "roadside_assistance_included": true,
+        "affiliate_program_available": false,
+        "affiliate_network": "none",
+        "api_available": "unknown"
+      },
+      "pricing": {
+        "economy_daily_rate": {
+          "min": 400,
+          "max": 600,
+          "average": 500,
+          "currency": "ZAR"
+        },
+        "suv_daily_rate": {
+          "min": 750,
+          "max": 1100,
+          "average": 925,
+          "currency": "ZAR"
+        },
+        "luxury_daily_rate": {
+          "min": 1500,
+          "max": 2200,
+          "average": 1850,
+          "currency": "ZAR"
+        },
+        "minimum_rental_days": 1,
+        "long_term_rental_available": true,
+        "monthly_rate_available": true
+      },
+      "costs": {
+        "typical_deposit": {
+          "min": 2000,
+          "max": 5000,
+          "average": 3500,
+          "currency": "ZAR",
+          "hold_type": "credit_card_only"
+        },
+        "typical_excess": {
+          "min": 10000,
+          "max": 18000,
+          "average": 14000,
+          "currency": "ZAR"
+        },
+        "excess_reduction": {
+          "available": true,
+          "cost_per_day_min": 150,
+          "cost_per_day_max": 250,
+          "cost_per_day_average": 200,
+          "currency": "ZAR"
+        }
+      },
+      "policies": {
+        "mileage_policy": "unlimited",
+        "fuel_policy": "full_to_full"
+      },
+      "reviews": {
+        "trustpilot_score": "unknown",
+        "google_review_score": "unknown",
+        "combined_satisfaction_score": "unknown",
+        "common_complaints": "unknown",
+        "common_strengths": "Competitive pricing, modern fleet"
+      },
+      "vehicle_brands_available": [
+        "Toyota",
+        "Volkswagen",
+        "Hyundai",
+        "Ford"
+      ],
+      "most_affordable_model": {
+        "vehicle_brand": "Toyota",
+        "vehicle_model": "Agya",
+        "estimated_daily_price_range_ZAR": "400-500"
+      }
+    },
+    {
+      "company_name": "Pace Car Rental",
+      "parent_company": "Pace Group",
+      "website_url": "https://www.pacecarrental.co.za",
+      "headquarters_country": "South Africa",
+      "year_established": 2002,
+      "operates_in_south_africa": true,
+      "estimated_fleet_size": "unknown",
+      "locations": {
+        "airports": [
+          "OR Tambo",
+          "Cape Town"
+        ],
+        "cities": [
+          "Johannesburg",
+          "Cape Town",
+          "Durban",
+          "Pretoria"
+        ],
+        "total_airport_locations": 2,
+        "total_city_locations": 4,
+        "total_locations": 6
+      },
+      "services": {
+        "corporate_accounts_available": true,
+        "loyalty_program_available": false,
+        "delivery_to_client_available": true,
+        "cross_border_allowed": true,
+        "support_24_hour": true,
+        "roadside_assistance_included": true,
+        "affiliate_program_available": false,
+        "affiliate_network": "none",
+        "api_available": "unknown"
+      },
+      "pricing": {
+        "economy_daily_rate": {
+          "min": 350,
+          "max": 550,
+          "average": 450,
+          "currency": "ZAR"
+        },
+        "suv_daily_rate": {
+          "min": 700,
+          "max": 1000,
+          "average": 850,
+          "currency": "ZAR"
+        },
+        "luxury_daily_rate": {
+          "min": 1400,
+          "max": 2200,
+          "average": 1800,
+          "currency": "ZAR"
+        },
+        "minimum_rental_days": 1,
+        "long_term_rental_available": true,
+        "monthly_rate_available": true
+      },
+      "costs": {
+        "typical_deposit": {
+          "min": 1500,
+          "max": 4000,
+          "average": 2750,
+          "currency": "ZAR",
+          "hold_type": "credit_card_or_debit"
+        },
+        "typical_excess": {
+          "min": 8000,
+          "max": 15000,
+          "average": 11500,
+          "currency": "ZAR"
+        },
+        "excess_reduction": {
+          "available": true,
+          "cost_per_day_min": 120,
+          "cost_per_day_max": 200,
+          "cost_per_day_average": 160,
+          "currency": "ZAR"
+        }
+      },
+      "policies": {
+        "mileage_policy": "unlimited",
+        "fuel_policy": "full_to_full"
+      },
+      "reviews": {
+        "trustpilot_score": "unknown",
+        "google_review_score": "unknown",
+        "combined_satisfaction_score": "unknown",
+        "common_complaints": "unknown",
+        "common_strengths": "Affordable rentals, flexible terms"
+      },
+      "vehicle_brands_available": [
+        "Toyota",
+        "Volkswagen",
+        "Hyundai",
+        "Ford",
+        "Nissan"
+      ],
+      "most_affordable_model": {
+        "vehicle_brand": "Volkswagen",
+        "vehicle_model": "Polo Vivo",
+        "estimated_daily_price_range_ZAR": "350-450"
+      }
+    },
+    {
+      "company_name": "PSS Car Rental",
+      "parent_company": "PSS Group",
+      "website_url": "https://www.psscarrental.co.za",
+      "headquarters_country": "South Africa",
+      "year_established": "unknown",
+      "operates_in_south_africa": true,
+      "estimated_fleet_size": "unknown",
+      "locations": {
+        "airports": [
+          "OR Tambo"
+        ],
+        "cities": [
+          "Johannesburg",
+          "Durban"
+        ],
+        "total_airport_locations": 1,
+        "total_city_locations": 2,
+        "total_locations": 3
+      },
+      "services": {
+        "corporate_accounts_available": true,
+        "loyalty_program_available": false,
+        "delivery_to_client_available": true,
+        "cross_border_allowed": true,
+        "support_24_hour": true,
+        "roadside_assistance_included": true,
+        "affiliate_program_available": false,
+        "affiliate_network": "none",
+        "api_available": "unknown"
+      },
+      "pricing": {
+        "economy_daily_rate": {
+          "min": 300,
+          "max": 500,
+          "average": 400,
+          "currency": "ZAR"
+        },
+        "suv_daily_rate": {
+          "min": 650,
+          "max": 950,
+          "average": 800,
+          "currency": "ZAR"
+        },
+        "luxury_daily_rate": {
+          "min": 1300,
+          "max": 2000,
+          "average": 1650,
+          "currency": "ZAR"
+        },
+        "minimum_rental_days": 1,
+        "long_term_rental_available": true,
+        "monthly_rate_available": true
+      },
+      "costs": {
+        "typical_deposit": {
+          "min": 1500,
+          "max": 3500,
+          "average": 2500,
+          "currency": "ZAR",
+          "hold_type": "credit_card_or_debit"
+        },
+        "typical_excess": {
+          "min": 8000,
+          "max": 15000,
+          "average": 11500,
+          "currency": "ZAR"
+        },
+        "excess_reduction": {
+          "available": true,
+          "cost_per_day_min": 100,
+          "cost_per_day_max": 180,
+          "cost_per_day_average": 140,
+          "currency": "ZAR"
+        }
+      },
+      "policies": {
+        "mileage_policy": "unlimited",
+        "fuel_policy": "full_to_full"
+      },
+      "reviews": {
+        "trustpilot_score": "unknown",
+        "google_review_score": "unknown",
+        "combined_satisfaction_score": "unknown",
+        "common_complaints": "unknown",
+        "common_strengths": "Regional provider, competitive pricing"
+      },
+      "vehicle_brands_available": [
+        "Toyota",
+        "Volkswagen",
+        "Hyundai",
+        "Ford",
+        "Nissan"
+      ],
+      "most_affordable_model": {
+        "vehicle_brand": "Toyota",
+        "vehicle_model": "Etios",
+        "estimated_daily_price_range_ZAR": "300-400"
+      }
+    }
+  ]
+}

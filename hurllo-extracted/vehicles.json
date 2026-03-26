@@ -1,0 +1,260 @@
+{
+  "vehicles_offered": [
+    {
+      "vehicle_model": "Toyota Agya",
+      "segment": "Economy",
+      "doors": 5,
+      "seating_capacity": 5,
+      "boot_space_litres": 260,
+      "fuel_type": "Petrol",
+      "transmission": "Manual/Automatic",
+      "companies": [
+        "Avis",
+        "Budget",
+        "First Car Rental",
+        "Woodford",
+        "Tempest",
+        "Bluu",
+        "Green Motion",
+        "Capital Car Hire",
+        "Comet Car Hire",
+        "CABS Car Hire",
+        "Safari Car Rental",
+        "Cape Car Hire"
+      ]
+    },
+    {
+      "vehicle_model": "Hyundai i10",
+      "segment": "Economy",
+      "doors": 5,
+      "seating_capacity": 5,
+      "boot_space_litres": 250,
+      "fuel_type": "Petrol",
+      "transmission": "Manual/Automatic",
+      "companies": [
+        "Budget",
+        "Zebra Car Hire",
+        "Rent a Cheapie",
+        "Around About Cars"
+      ]
+    },
+    {
+      "vehicle_model": "Volkswagen Polo Vivo",
+      "segment": "Economy",
+      "doors": 5,
+      "seating_capacity": 5,
+      "boot_space_litres": 280,
+      "fuel_type": "Petrol",
+      "transmission": "Manual/Automatic",
+      "companies": [
+        "Europcar",
+        "Bluu",
+        "Sixt",
+        "Around About Cars"
+      ]
+    },
+    {
+      "vehicle_model": "Kia Picanto",
+      "segment": "Economy",
+      "doors": 5,
+      "seating_capacity": 4,
+      "boot_space_litres": 200,
+      "fuel_type": "Petrol",
+      "transmission": "Manual/Automatic",
+      "companies": [
+        "Woodford",
+        "U-Save",
+        "Capital Car Hire"
+      ]
+    },
+    {
+      "vehicle_model": "Nissan Micra",
+      "segment": "Economy",
+      "doors": 5,
+      "seating_capacity": 5,
+      "boot_space_litres": 300,
+      "fuel_type": "Petrol",
+      "transmission": "Manual",
+      "companies": [
+        "Hertz",
+        "Thrifty",
+        "Dollar"
+      ]
+    },
+    {
+      "vehicle_model": "Toyota Corolla Quest",
+      "segment": "Compact",
+      "doors": 4,
+      "seating_capacity": 5,
+      "boot_space_litres": 450,
+      "fuel_type": "Petrol",
+      "transmission": "Manual/Automatic",
+      "companies": [
+        "Avis",
+        "Europcar",
+        "First Car Rental",
+        "Woodford",
+        "Bidvest Car Rental"
+      ]
+    },
+    {
+      "vehicle_model": "Toyota Fortuner",
+      "segment": "SUV",
+      "doors": 5,
+      "seating_capacity": 7,
+      "boot_space_litres": 296,
+      "fuel_type": "Diesel",
+      "transmission": "Automatic",
+      "companies": [
+        "Avis",
+        "Hertz",
+        "Europcar",
+        "Budget",
+        "First Car Rental",
+        "Woodford",
+        "Safari Car Rental",
+        "Drive Africa Car Hire"
+      ]
+    },
+    {
+      "vehicle_model": "Ford EcoSport",
+      "segment": "SUV",
+      "doors": 5,
+      "seating_capacity": 5,
+      "boot_space_litres": 346,
+      "fuel_type": "Petrol",
+      "transmission": "Manual/Automatic",
+      "companies": [
+        "Avis",
+        "Budget",
+        "First Car Rental",
+        "Woodford",
+        "Tempest"
+      ]
+    },
+    {
+      "vehicle_model": "Hyundai Tucson",
+      "segment": "SUV",
+      "doors": 5,
+      "seating_capacity": 5,
+      "boot_space_litres": 488,
+      "fuel_type": "Petrol/Diesel",
+      "transmission": "Automatic",
+      "companies": [
+        "Europcar",
+        "Woodford",
+        "Bidvest Car Rental",
+        "Around About Cars"
+      ]
+    },
+    {
+      "vehicle_model": "BMW 3 Series",
+      "segment": "Luxury",
+      "doors": 4,
+      "seating_capacity": 5,
+      "boot_space_litres": 480,
+      "fuel_type": "Petrol/Diesel",
+      "transmission": "Automatic",
+      "companies": [
+        "Avis",
+        "Hertz",
+        "Europcar",
+        "Sixt",
+        "Woodford",
+        "Bidvest Car Rental"
+      ]
+    },
+    {
+      "vehicle_model": "Mercedes-Benz C-Class",
+      "segment": "Luxury",
+      "doors": 4,
+      "seating_capacity": 5,
+      "boot_space_litres": 455,
+      "fuel_type": "Petrol/Diesel",
+      "transmission": "Automatic",
+      "companies": [
+        "Avis",
+        "Hertz",
+        "Europcar",
+        "Sixt",
+        "Woodford",
+        "Bidvest Car Rental"
+      ]
+    },
+    {
+      "vehicle_model": "Audi A4",
+      "segment": "Luxury",
+      "doors": 4,
+      "seating_capacity": 5,
+      "boot_space_litres": 460,
+      "fuel_type": "Petrol/Diesel",
+      "transmission": "Automatic",
+      "companies": [
+        "Sixt",
+        "Europcar",
+        "Woodford"
+      ]
+    },
+    {
+      "vehicle_model": "Toyota Hilux",
+      "segment": "Pickup/Utility",
+      "doors": 4,
+      "seating_capacity": 5,
+      "boot_space_litres": "open load bin (~1000L equivalent)",
+      "fuel_type": "Diesel",
+      "transmission": "Manual/Automatic",
+      "companies": [
+        "Avis",
+        "Europcar",
+        "First Car Rental",
+        "Woodford",
+        "Safari Car Rental",
+        "Drive Africa Car Hire"
+      ]
+    },
+    {
+      "vehicle_model": "Ford Ranger",
+      "segment": "Pickup/Utility",
+      "doors": 4,
+      "seating_capacity": 5,
+      "boot_space_litres": "open load bin (~1000L equivalent)",
+      "fuel_type": "Diesel",
+      "transmission": "Manual/Automatic",
+      "companies": [
+        "Avis",
+        "Budget",
+        "Europcar",
+        "Woodford",
+        "Bidvest Car Rental"
+      ]
+    },
+    {
+      "vehicle_model": "Hyundai Kona Electric",
+      "segment": "Electric/Hybrid",
+      "doors": 5,
+      "seating_capacity": 5,
+      "boot_space_litres": 332,
+      "fuel_type": "Electric",
+      "transmission": "Automatic",
+      "companies": [
+        "Europcar",
+        "Sixt",
+        "Green Motion"
+      ]
+    },
+    {
+      "vehicle_model": "Toyota Prius Hybrid",
+      "segment": "Electric/Hybrid",
+      "doors": 5,
+      "seating_capacity": 5,
+      "boot_space_litres": 502,
+      "fuel_type": "Hybrid (Petrol/Electric)",
+      "transmission": "Automatic",
+      "companies": [
+        "Avis",
+        "Green Motion",
+        "Europcar"
+      ]
+    }
+  ]
+}

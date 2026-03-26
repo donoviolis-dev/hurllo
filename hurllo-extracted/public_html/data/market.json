@@ -1,0 +1,96 @@
+{
+  "market_data_customer_view": {
+    "average_daily_rates_ZAR": {
+      "economy": "380-550",
+      "suv": "700-1050",
+      "luxury": "1400-2200",
+      "electric": "600-900"
+    },
+    "refund_speed_comparison": {
+      "global_brands": "5-10 business days",
+      "local_brands": "3-7 business days"
+    },
+    "cross_border_rental": {
+      "allowed_countries": [
+        "Namibia",
+        "Botswana",
+        "Eswatini",
+        "Lesotho"
+      ],
+      "restricted_countries": [
+        "Zimbabwe",
+        "Mozambique"
+      ]
+    },
+    "booking_channels": {
+      "online_percent": 62,
+      "mobile_app_percent": 28,
+      "offline_percent": 10
+    },
+    "popular_vehicle_segments_percent": {
+      "economy_cars": 48,
+      "suvs": 27,
+      "luxury": 15,
+      "electric_hybrids": 10
+    },
+    "most_booked_model_per_segment": {
+      "economy": "Toyota Agya",
+      "suv": "Toyota Fortuner",
+      "luxury": "BMW 3 Series",
+      "electric_hybrids": "Hyundai Kona Electric"
+    },
+    "customer_priorities_ranked": [
+      "Transparent pricing (no hidden fees)",
+      "Fast deposit refunds",
+      "Unlimited mileage options",
+      "Cross-border rental availability",
+      "24/7 roadside assistance"
+    ],
+    "seasonal_demand_peaks": {
+      "december_january": "High (holiday tourism)",
+      "april": "Moderate (Easter travel)",
+      "june_july": "High (school holidays)",
+      "september": "Moderate (spring tourism)"
+    },
+    "tourism_link": {
+      "international_arrivals_2024_millions": 8.5,
+      "percent_using_car_rental": 34,
+      "top_renter_origins": [
+        "UK",
+        "Germany",
+        "USA",
+        "Netherlands"
+      ]
+    },
+    "customer_satisfaction_scores": {
+      "average_google_reviews": 4.2,
+      "average_trustpilot_reviews": 3.7,
+      "top_complaints": [
+        "Deposit delays",
+        "Insurance upselling",
+        "Hidden mileage caps"
+      ],
+      "top_strengths": [
+        "Wide airport coverage",
+        "Affordable economy cars",
+        "Strong local service"
+      ]
+    },
+    "creative_insights": {
+      "most_booked_model": "Toyota Agya",
+      "average_booking_duration_days": 5.2,
+      "percent_long_term_rentals": 18,
+      "average_customer_age": 36,
+      "family_vs_solo_travel_percent": {
+        "family": 42,
+        "solo": 58
+      }
+    },
+    "emerging_trends": [
+      "Growth in electric vehicle rentals",
+      "Subscription-based car hire for locals",
+      "Integration with travel apps and flight bookings",
+      "Peer-to-peer car sharing platforms"
+    ]
+  }
+}
